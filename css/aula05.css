@@ -1,0 +1,16 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: blueviolet;
+    color: white;
+}
+
+.box {
+    border: 3px solid #FF0000;
+    background-color: #CCCCCC;
+    color: red;
+}
+
+#aviso {
+    width: 100px;
+    height: 100px;
+}
